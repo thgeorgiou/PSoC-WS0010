@@ -1,0 +1,16 @@
+# PSoC Creator personal settings
+*.cywrk.*
+*.cyprj.*
+
+# Build files
+CortexM0
+CortexM3
+
+# Code generation
+codegentemp
+Generated_Source
+Export
+*_timing.html
+*.rpt
+*.cycdx
+*.cyfit
